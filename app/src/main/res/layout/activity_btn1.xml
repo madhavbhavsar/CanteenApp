@@ -36,7 +36,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:completionThreshold="1"
-                android:hint="Faculty Name" />
+                android:hint="Name" />
 
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -86,7 +86,7 @@
                                 android:layout_gravity="center"
                                 android:ems="4"
                                 android:gravity="center"
-                                android:text="Tea"
+                                android:text="Item1"
                                 android:textColor="@color/black"
                                 android:textSize="20sp" />
 
@@ -203,7 +203,7 @@
                                 android:layout_gravity="center"
                                 android:ems="4"
                                 android:gravity="center"
-                                android:text="Coffee"
+                                android:text="Item2"
                                 android:textColor="@color/black"
                                 android:textSize="20sp" />
 
@@ -319,7 +319,7 @@ android:enabled="false"
                                 android:layout_gravity="center"
                                 android:ems="4"
                                 android:gravity="center"
-                                android:text="B.F."
+                                android:text="Item3"
                                 android:textColor="@color/black"
                                 android:textSize="20sp" />
 
@@ -435,7 +435,7 @@ android:enabled="false"
                                 android:layout_gravity="center"
                                 android:ems="4"
                                 android:gravity="center"
-                                android:text="Lunch"
+                                android:text="Item4"
                                 android:textColor="@color/black"
                                 android:textSize="20sp" />
 
@@ -551,7 +551,7 @@ android:enabled="false"
                                 android:layout_gravity="center"
                                 android:ems="4"
                                 android:gravity="center"
-                                android:text="Dinner"
+                                android:text="Item5"
                                 android:textColor="@color/black"
                                 android:textSize="20sp" />
 
